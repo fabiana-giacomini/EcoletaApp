@@ -19,6 +19,23 @@
   #page-home main {
     align-items: center;
   }
+
+  #search-results .cards {
+    grid-template-columns: 1fr;
+  }
+
+  #search-results .cards img {
+    height: 200px;
+    
+  }
+
+  #create-point .field-group {
+    flex-direction: column;
+  }
+
+  #create-point .field-group .field+.field {
+    margin-left: 0;
+  }
 }
 
 @media (min-width: 1700px) {
