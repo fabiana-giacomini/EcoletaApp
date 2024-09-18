@@ -19,7 +19,7 @@
   "homepage": "https://github.com/fabygiacomini/EcoletaApp#readme",
   "dependencies": {
     "express": "^4.20.0",
-    "nunjucks": "^3.2.1",
+    "nunjucks": "^3.2.4",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
